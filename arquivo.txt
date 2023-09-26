@@ -1,1 +1,2 @@
-Primeira linh do projeto, repositório local (escrito pelo usiário Thon).
+Primeira linha do projeto, repositório local (escrito pelo usiário Thon).
+linha segunda do projeto, após criação do repositório remoto. 
